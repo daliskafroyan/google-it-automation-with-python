@@ -42,8 +42,8 @@ Git can work as a standalone program as a server and as a client. This means tha
 
 #### *First Steps with Git*
 ```bash
-git config –global user.mail  “me@example.com”
-git config –global user.name  “Otonashi”
+git config –-global user.mail  “<me@example.com>”
+git config –-global user.name  “<name>”
 ```
 to config our identity for the first time
 ```bash
@@ -62,7 +62,7 @@ added our file in staging area which is a file maintained by Git that contains a
 git commit
 ```
 to put the code into git directory
-### *Tracking Files*
+#### *Tracking Files*
 Files could have three stages: modified, staged, commited. After changing the file, stage those changes and commit them afterwards
 ```bash
 git commit -m 
