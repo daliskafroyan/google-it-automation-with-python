@@ -1,8 +1,8 @@
 introduction-git-w2-using-git-locally
 
 # Introduction to Git and GitHub
-## WEEK 1 - Using Git Locally
-* * *
+## WEEK 2 - Using Git Locally
+
 ### **Advanced Git Interaction**
 * * *
 #### *Intro to Module 2: Using Git Locally*
@@ -45,7 +45,7 @@ rename file in repository
 * * *
 #### *Undoing Changes Before Committing*
 ```bash
-git checkout all_check.py
+git checkout <all_check.py>
 ```
 reverting any changes before staging. restore the file to the latest storage snapshot
 ```bash

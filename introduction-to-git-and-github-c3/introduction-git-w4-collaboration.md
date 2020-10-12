@@ -2,7 +2,7 @@ introduction-git-w4-collaboration
 
 # Introduction to Git and GitHub
 ## WEEK 4 - Collaboration
-* * *
+
 ### **Pull Requests**
 * * *
 #### *A Simple Pull Request on GitHub*

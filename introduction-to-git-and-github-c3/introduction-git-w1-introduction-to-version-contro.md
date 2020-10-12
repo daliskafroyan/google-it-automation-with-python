@@ -2,7 +2,7 @@ introduction-git-w1-introduction-to-version-control
 
 # Introduction to Git and GitHub
 ## WEEK 1 - Introduction to Version Control
-* * *
+
 ### **Before Version Control**
 * * *
 #### *Intro to Module 1: Version Control*
