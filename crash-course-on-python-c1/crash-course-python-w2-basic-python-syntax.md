@@ -69,10 +69,12 @@ In Python, comma-separated values are considered tuples without parentheses,
 Python can also compare values. This lets us check whether something is smaller than, equal to, or bigger than something else. This allows us to take the result of our expressions and use them to make decisions
 
 ![](https://miro.medium.com/max/727/0*-h4Y88JjmLCvPnil.png)
+
 *pictures taken from medium.com*
 
 #### *Branching with if Statements*
 The ability of a program to alter its execution sequence is called branching, and it's a key component in making your scripts useful. It make your program do something only when certain conditions are met.
 
 ![](https://www.simplilearn.com/ice9/free_resources_article_thumb/c-evenodd.JPG)
+
 *pictures taken from simplilearn.com*
