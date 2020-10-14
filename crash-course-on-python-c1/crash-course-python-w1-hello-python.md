@@ -35,6 +35,7 @@ Automation is a powerful tool when used in the right place at the right moment. 
 * * *
 #### *What is Python?*
 So why pick Python? Well, we chose Python for a few reasons. First off, programming in Python usually feels similar to using a human language. This is because Python makes it easy to express what we want to do with syntax that's easy to read and write.
+
 <br/>
 
 ### **Hello World**
@@ -45,7 +46,7 @@ print('hello, world!')
 ```
 any text that isn't inside quotation mark is considered part of the code
 
-#### *Python Can Be YOur Calculator*
+#### *Python Can Be Your Calculator*
 ```python
 print((((1+2)*3)/4)**5)
 ```
